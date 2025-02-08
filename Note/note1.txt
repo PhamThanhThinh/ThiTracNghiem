@@ -1,0 +1,7 @@
+thi trắc nghiệm trực tuyến sử dụng blazor
+
+.NET MAUI Blazor (WPF -> xaml)
+và
+.NET MAUI Blazor Hybrid App (web -> sử dụng html css để làm giao diện)
+
+Data -> Tầng Data Access Layer (DAL)
