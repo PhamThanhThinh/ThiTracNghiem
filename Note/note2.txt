@@ -1,0 +1,28 @@
+Category -> loại -> lưu câu hỏi thuộc môn học nào, ví dụ: toán lý hóa, kỹ thuật lập trình, lập trình hướng đối tượng
+
+DevOps -> tạo server chứa code của dự án (thông tin của dự án)
+
+CodeFirst + Blazor -> chủ yếu code C#
+
+game unity 2d/3d
+ứng dụng máy tính (win, mac), điện thoại (ios, android)
+ứng dụng web
+
+Application -> trừ khi dùng thư viện Identity ApplicationDbContext
+còn bình thường thì nên dùng từ khóa khác
+TuKhoaDbContext
+
+add-migration mota
+update-database
+
+- Bạn nào học web -> mobile thì dùng blazor hybrid (code giao diện bằng HTML CSS)
+- Bạn nào học wpf -> mobile thì dùng blazor (code giao diện bằng XAML)
+
+blazor kết hợp maui thì code được tất cả các app trên các nền tảng:
+web, ứng dụng máy tính, ứng dụng điện thoại
+
+Nếu deploy trên VPS (hosting, cloud, server) thường sẽ là VPS windows
+
+SSL tức là những trang web nào chạy được https
+
+để test api chúng ta có thể dụng swagger hoặc postman

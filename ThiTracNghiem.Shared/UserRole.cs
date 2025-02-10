@@ -1,7 +1,8 @@
 ﻿namespace ThiTracNghiem.Shared
 {
-  public class Class1
+  public enum UserRole
   {
-
+    Admin,
+    Student
   }
 }
